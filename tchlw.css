@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+     
+ }
+ .position-fixed button {
+     margin-top: 50px; 
+ }
+ 
+ .carousel-item {
+     margin-top: 57px; 
+ }
+ content {
+     position: relative;
+ }
+ .carousel-item img {
+     height: 100vh;
+     object-fit: cover;
+}
+.card {
+    border-radius: 1px solid;
+    margin-top: 30px;
+}
+.new_title {
+	text-decoration: none;
+	text-align: center;
+    color: #f7303c;
+    font-weight: bold;
+    font-size: 16px;
+}
+.custom-image {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}

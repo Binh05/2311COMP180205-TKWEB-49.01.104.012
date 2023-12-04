@@ -1,0 +1,37 @@
+body {
+   margin: 0;
+   padding: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+}
+.position-fixed button {
+    margin-top: 50px; 
+}
+
+.carousel-item {
+    margin-top: 57px; 
+}
+content {
+    position: relative;
+}
+
+
+
+
+.list-group-item a {
+    text-decoration: none; 
+    color: inherit; 
+}
+.row1 {
+    margin-top: 10px;
+}
+
+
+
+
+
+    
+
+

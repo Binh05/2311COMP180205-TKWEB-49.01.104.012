@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 40px;
+}
+.card {
+    margin-top: 30px;
+}
+
+.list-group-item a {
+    text-decoration: none; 
+    color: inherit; 
+}
+.new_title {
+	text-decoration: none;
+	text-align: center;
+    color: #f7303c;
+    font-weight: bold;
+    font-size: 16px;
+}
+.infor {
+    margin-top: 10px;
+}
+.row1 {
+    margin-top: 10px;
+}
+
+
+
+
+
+    
+
+
